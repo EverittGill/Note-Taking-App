@@ -8,5 +8,15 @@
         "title": "first ",
         "text": "the first new note",
         "id": "aa2d721a-ce05-4f94-b8f8-461de5bd4ab7"
+    },
+    {
+        "title": "second test",
+        "text": "this is it",
+        "id": "eb2c0e29-9bcd-4ec1-9b67-13254191b43c"
+    },
+    {
+        "title": "third",
+        "text": "third test\n",
+        "id": "024cce77-141b-4b6b-aed7-e201aa2efb64"
     }
 ]
